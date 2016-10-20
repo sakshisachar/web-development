@@ -1,1 +1,11 @@
-hello git
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>
+MY FIRST PAGE
+</title>
+</head>
+<body>
+Hello this is my first project on git
+</body>
+</html>
